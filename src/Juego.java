@@ -23,5 +23,11 @@ public class Juego {
 
         // Lógica del juego aquí
         // Por ejemplo, turnos de los jugadores, jugadas en la mesa, etc.
+
+        round();
+    }
+
+    public static void round(){
+        //juego
     }
 }

@@ -3,10 +3,11 @@ import java.util.List;
 
 public class Mesa {
     // Atributo
-    private List<Carta> cartasJugadas;
+    private ArrayList<Carta> cartasJugadas;
 
     // Constructor
     public Mesa() {
+
         cartasJugadas = new ArrayList<>();
     }
 
